@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Machine Learning Projects I've Worked On:</h2>
 
-- <b>Feature Engineering</b> 
+- <b>Feature Engineering</b> (JohnSRX/Machine-Learning-Portfolio/tree/Assosiation-Rules)
   - Feature Engineering in Colab
   - Another Feature Engineering Project
 - <b>Text Mining and NLP</b>
